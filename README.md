@@ -1,5 +1,3 @@
-# Lab5Web - JavaScript Dasar dan Manipulasi HTML
-
 <table>
   <tr>
     <th colspan="2">DATA MAHASISWA</th>
@@ -13,6 +11,8 @@
     <td>312210375</td>
   </tr>
 </table>
+
+# Lab5Web - JavaScript Dasar dan Manipulasi HTML
 
 ## Tujuan
 Mempelajari dasar JavaScript dan cara mengubah isi HTML.

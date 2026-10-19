@@ -41,4 +41,17 @@ Mempelajari dasar JavaScript dan cara mengubah isi HTML.
 4. Salin URL repository untuk dikumpulkan.
 
 ## langkah kerja praktikum
+const pilihan = "2";
 
+switch (pilihan) {
+    case "1":
+        console.log("Pilihan satu");
+        break;
+    case "2":
+        console.log("Pilihan dua");
+        break;
+    default:
+        console.log("Pilihan tidak tersedia");
+}
+
+break digunakan untuk menghentik

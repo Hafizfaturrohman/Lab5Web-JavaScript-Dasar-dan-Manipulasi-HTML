@@ -1,5 +1,19 @@
 # Lab5Web - JavaScript Dasar dan Manipulasi HTML
 
+<table>
+  <tr>
+    <th colspan="2">DATA MAHASISWA</th>
+  </tr>
+  <tr>
+    <td>Nama</td>
+    <td>Hafiz Faturrohman</td>
+  </tr>
+  <tr>
+    <td>NIM</td>
+    <td>312210375</td>
+  </tr>
+</table>
+
 ## Tujuan
 Mempelajari dasar JavaScript dan cara mengubah isi HTML.
 
